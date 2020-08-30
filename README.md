@@ -1,2 +1,3 @@
-# simple-amazon-price-tracker
-Created with CodeSandbox
+# Simple Amazon Price Tracker
+
+1. Grab HTML from Amazon and parse it
