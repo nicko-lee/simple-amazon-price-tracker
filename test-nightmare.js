@@ -1,4 +1,5 @@
-// from https://www.npmjs.com/package/nightmare
+// from https://www.linode.com/docs/development/nodejs/use-nightmarejs-to-automate-headless-browsing/
+// another example at https://www.npmjs.com/package/nightmare
 
 const Nightmare = require("nightmare");
 const nightmare = Nightmare({ show: true });
