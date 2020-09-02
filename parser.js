@@ -39,7 +39,6 @@ async function checkPrice() {
       // throw so if we check the logs when the app is running, we will see the error show up in console
       throw e 
   }
-
 }
 
 // create a function that will actually send our email
